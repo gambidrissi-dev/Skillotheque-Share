@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Skillothèque Updates</title>
+    <link>https://github.com/gambidrissi-dev/Skillotheque-Share</link>
+    <description>Mises à jour de Skillothèque</description>
+    <item>
+      <title>Version 1.0.1</title>
+      <pubDate>Wed, 02 Sep 2026 04:40:00 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/Skillotheque-Share/releases/download/v1.0.1/Skillotheque-1.0.1.zip"
+                 sparkle:edSignature="8bT1f9uJXBzhN4Bfuqh2SWWtM561Rl0bHZje6J+VAX415YZAKZnHiFB3Fqw9Mg7Anv5nZonF62rCakTTDjbtBA=="
+                 length="1401056"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
