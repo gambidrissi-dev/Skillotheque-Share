@@ -5,6 +5,17 @@
     <link>https://github.com/gambidrissi-dev/Skillotheque-Share</link>
     <description>Mises à jour de Skillothèque</description>
     <item>
+      <title>Version 1.0.2</title>
+      <pubDate>Wed, 02 Sep 2026 03:21:10 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/Skillotheque-Share/releases/download/v1.0.2/Skillotheque-1.0.2.zip"
+                 sparkle:edSignature="0logsBLLlYEcnqQZh9VMnzbaiZeAVHzcxOzkj4b22+v9Zy0QCT4/8slVlhgN3dOmroF/lBecyCOiJlwRfefCDQ=="
+                 length="1340857"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.0.1</title>
       <pubDate>Wed, 02 Sep 2026 04:40:00 +0000</pubDate>
       <sparkle:version>2</sparkle:version>
