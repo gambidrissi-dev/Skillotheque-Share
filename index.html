@@ -58,6 +58,7 @@
   .requirements { color: var(--muted); font-size: 0.85rem; margin-top: 1rem; }
   .steps { color: var(--muted); font-size: 0.9rem; line-height: 1.7; }
   .steps b { color: var(--text); }
+  ul.features { color: var(--muted); font-size: 0.92rem; line-height: 1.75; padding-left: 1.1rem; margin: 0; }
   footer { color: var(--muted); font-size: 0.8rem; text-align: center; margin-top: 2rem; }
   a.plain { color: var(--accent); }
 </style>
@@ -74,6 +75,22 @@
       ⬇ Télécharger pour macOS
     </a>
     <p class="requirements">macOS 13 (Ventura) ou plus récent · Apple Silicon &amp; Intel</p>
+  </div>
+
+  <div class="card">
+    <ul class="features">
+      <li><b>Un dépôt git, tes skills</b> — chaque skill vit une seule fois (fichier <code>SKILL.md</code> avec frontmatter), synchronisée par git plutôt qu'éparpillée par outil.</li>
+      <li><b>Cinq destinations intégrées</b> — Hermes, Claude Code, Syntax, Gemini CLI, Codex CLI. Masquables individuellement si tu n'as pas l'outil, jamais supprimables.</li>
+      <li><b>Copiée où il faut</b> — une skill dit elle-même pour quelles cibles elle est active (<code>targets:</code>) ; l'app la place au bon endroit sur le disque, jamais écrasée si une skill du même nom existe déjà dans la catégorie.</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <ul class="features">
+      <li><b>Détection de divergence</b> — si le fichier réel a été modifié à la main depuis la dernière copie, l'app le signale plutôt que d'écraser silencieusement.</li>
+      <li><b>Exemples inclus</b> — quelques skills livrées à la création du dossier, pour ne pas partir d'une page blanche.</li>
+      <li><b>Interface bilingue</b> — français / anglais, un bouton pour basculer ; le contenu des skills, lui, reste tel qu'écrit par son auteur.</li>
+    </ul>
   </div>
 
   <div class="card">
