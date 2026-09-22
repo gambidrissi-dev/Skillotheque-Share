@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/Skillotheque-Share</link>
     <description>Mises à jour de Skillothèque</description>
     <item>
+      <title>Version 1.4.1</title>
+      <description><![CDATA[
+<h3>Guide de prise en main au premier lancement</h3>
+<p>Decouverte.swift (fichier partagé entre apps, maître dans STAYAWAKE) ouvre une fenêtre AppKit au premier lancement et via « Découvrir Skillothèque » ; Aide.swift porte le contenu propre à l'app, bilingue, à jour des cibles et de l'activation en lot ajoutées ce jour.</p>
+      ]]></description>
+      <pubDate>Tue, 22 Sep 2026 19:56:50 +0000</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/Skillotheque-Share/releases/download/v1.4.1/Skillotheque-1.4.1.zip"
+                 sparkle:edSignature="oLIl4E2+oEagb/O9nBVprZ9u1vB+/3kSEZGn5xPFvfyruCBeZX7e/FEIDTq0Qlg4eH4ZtvNytrArjt+aANNbAg=="
+                 length="1567431"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.4.0</title>
       <description><![CDATA[
 <h3>Filtre par cible et activation en lot</h3>
